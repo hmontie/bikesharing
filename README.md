@@ -53,17 +53,3 @@ If I were to pursue additional lines of inquiry for analysis and visualization, 
 
 - Trip starting and ending locations during morning and evening rush hour time-windows, to display the flow of traffic between neighborhoods at peak hours;
 - Average trip duration, by birth year, by gender, to explore if there was any difference in male or female or un-gendered riders as they age.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
